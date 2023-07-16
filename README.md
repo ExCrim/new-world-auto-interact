@@ -25,7 +25,7 @@ You can install the dependencies using the following command:
 3. Modify the script to set the appropriate values for the `window_name` and other variables according to your game window and requirements.
 
 4. Run the script using the following command:
-`python game_automation_script.py`
+`python auto_interact.py`
 
 5. The script will search for the game window with the specified name, activate it, and perform automated actions based on game conditions.
 
